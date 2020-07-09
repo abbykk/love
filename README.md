@@ -23,4 +23,4 @@ together.setSeconds(0);         //秒前一位
 together.setMilliseconds(2);        //秒第二位
 ```
 
-预览地址
+预览地址 https://abbykk.github.io/love/
